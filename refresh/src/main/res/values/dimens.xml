@@ -42,7 +42,6 @@
   -->
 
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <dimen name="default_padding">8dp</dimen>
+    <dimen name="default_sidle_height">30dp</dimen>
 </resources>
